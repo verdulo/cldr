@@ -6199,7 +6199,7 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 				</currencyFormat>
 			</currencyFormatLength>
 			<currencyPatternAppendISO>↑↑↑</currencyPatternAppendISO>
-			<unitPattern count="other">↑↑↑</unitPattern>
+			<unitPattern count="other">{0} {1}</unitPattern>
 		</currencyFormats>
 		<currencies>
 			<currency type="ADP">
@@ -10414,7 +10414,7 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<nameOrderLocales order="surnameFirst">ko vi yue zh</nameOrderLocales>
 		<parameterDefault parameter="formality">↑↑↑</parameterDefault>
 		<parameterDefault parameter="length">↑↑↑</parameterDefault>
-		<nativeSpaceReplacement>↑↑↑</nativeSpaceReplacement>
+		<nativeSpaceReplacement xml:space="preserve">↑↑↑</nativeSpaceReplacement>
 		<foreignSpaceReplacement xml:space="preserve">↑↑↑</foreignSpaceReplacement>
 		<initialPattern type="initial">↑↑↑</initialPattern>
 		<initialPattern type="initialSequence">↑↑↑</initialPattern>

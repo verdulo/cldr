@@ -7103,6 +7103,8 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 				<displayName count="other">↑↑↑</displayName>
 			</currency>
 			<currency type="SLE">
+				<displayName>sierraleonske leonar (1964—2022)</displayName>
+				<displayName count="one">sierraleonsk leone (1964—2022)</displayName>
 				<displayName count="other">↑↑↑</displayName>
 			</currency>
 			<currency type="SLL">
@@ -11379,7 +11381,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<nameOrderLocales order="surnameFirst">↑↑↑</nameOrderLocales>
 		<parameterDefault parameter="formality">↑↑↑</parameterDefault>
 		<parameterDefault parameter="length">↑↑↑</parameterDefault>
-		<nativeSpaceReplacement>↑↑↑</nativeSpaceReplacement>
+		<nativeSpaceReplacement xml:space="preserve">↑↑↑</nativeSpaceReplacement>
 		<foreignSpaceReplacement xml:space="preserve">↑↑↑</foreignSpaceReplacement>
 		<initialPattern type="initial">↑↑↑</initialPattern>
 		<initialPattern type="initialSequence">↑↑↑</initialPattern>

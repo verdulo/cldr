@@ -4952,8 +4952,8 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 				</currencyFormat>
 			</currencyFormatLength>
 			<currencyPatternAppendISO draft="contributed">{0} ¤¤</currencyPatternAppendISO>
-			<unitPattern count="one">↑↑↑</unitPattern>
-			<unitPattern count="other">↑↑↑</unitPattern>
+			<unitPattern count="one">{0} {1}</unitPattern>
+			<unitPattern count="other">{0} {1}</unitPattern>
 		</currencyFormats>
 		<currencies>
 			<currency type="AED">
@@ -9484,7 +9484,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<nameOrderLocales order="surnameFirst"/>
 		<parameterDefault parameter="formality">↑↑↑</parameterDefault>
 		<parameterDefault parameter="length">↑↑↑</parameterDefault>
-		<nativeSpaceReplacement>↑↑↑</nativeSpaceReplacement>
+		<nativeSpaceReplacement xml:space="preserve">↑↑↑</nativeSpaceReplacement>
 		<foreignSpaceReplacement xml:space="preserve">↑↑↑</foreignSpaceReplacement>
 		<initialPattern type="initial">↑↑↑</initialPattern>
 		<initialPattern type="initialSequence">↑↑↑</initialPattern>

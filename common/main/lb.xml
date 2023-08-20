@@ -739,7 +739,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 			<script type="Tfng">Tifinagh</script>
 			<script type="Tglg">Dagalog</script>
 			<script type="Thaa">Thaana</script>
-			<script type="Thai">↑↑↑</script>
+			<script type="Thai">Thai</script>
 			<script type="Tibt">Tibetesch</script>
 			<script type="Ugar">Ugaritesch</script>
 			<script type="Vaii">Vai</script>
@@ -1764,6 +1764,8 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 						<dateFormatItem id="Hm">↑↑↑</dateFormatItem>
 						<dateFormatItem id="hms">h:mm:ss a</dateFormatItem>
 						<dateFormatItem id="Hms">↑↑↑</dateFormatItem>
+						<dateFormatItem id="hmsv">↑↑↑</dateFormatItem>
+						<dateFormatItem id="Hmsv">↑↑↑</dateFormatItem>
 						<dateFormatItem id="M">↑↑↑</dateFormatItem>
 						<dateFormatItem id="Md">d.M.</dateFormatItem>
 						<dateFormatItem id="MEd">E, d.M.</dateFormatItem>
@@ -3715,8 +3717,8 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 					<pattern type="100000000000000" count="other" draft="provisional">000 Bio'.' ¤</pattern>
 				</currencyFormat>
 			</currencyFormatLength>
-			<unitPattern count="one">↑↑↑</unitPattern>
-			<unitPattern count="other">↑↑↑</unitPattern>
+			<unitPattern count="one">{0} {1}</unitPattern>
+			<unitPattern count="other">{0} {1}</unitPattern>
 		</currencyFormats>
 		<currencies>
 			<currency type="ADP">

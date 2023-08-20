@@ -32,14 +32,12 @@ For details about code and other contributions, see [CONTRIBUTING.md](./CONTRIBU
 
 A source formatter is now used, please see [spotless](./tools/README.md#spotless) for details.
 
-### Licenses
+### Copyright & Licenses
 
-This project is released under the free and open-source [Unicode License](./LICENSE), also known as _Unicode, Inc. License Agreement - Data Files and Software_. Note that some CLDR tools depend on libraries managed via Maven; use of these libraries is governed by separate license agreements.
+Copyright © 2004-2023 Unicode, Inc. Unicode and the Unicode Logo are registered trademarks of Unicode, Inc. in the United States and other countries.
 
-SPDX-License-Identifier: Unicode-DFS-2016
+The project is released under [LICENSE](./LICENSE).
 
-### Copyright
+Note that some CLDR tools depend on libraries managed via Maven; use of these libraries is governed by separate license agreements.
 
-Copyright &copy; 1991-2023 Unicode, Inc.
-All rights reserved.
-[Terms of use](https://www.unicode.org/copyright.html)
+A CLA is required to contribute to this project - please refer to the [CONTRIBUTING.md](./CONTRIBUTING.md) file (or start a Pull Request) for more information.

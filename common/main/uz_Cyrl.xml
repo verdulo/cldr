@@ -1496,7 +1496,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 			</field>
 			<field type="wed">
 				<relative type="-1">ўтган чоршанба</relative>
-				<relative draft="contributed" type="0">бу чоршанба</relative>
+				<relative type="0" draft="contributed">бу чоршанба</relative>
 				<relative type="1">кейинги чоршанба</relative>
 			</field>
 			<field type="thu">
@@ -2688,8 +2688,8 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 					<pattern type="100000000000000" count="other" draft="provisional">¤ 000трлн</pattern>
 				</currencyFormat>
 			</currencyFormatLength>
-			<unitPattern count="one">↑↑↑</unitPattern>
-			<unitPattern count="other">↑↑↑</unitPattern>
+			<unitPattern count="one">{0} {1}</unitPattern>
+			<unitPattern count="other">{0} {1}</unitPattern>
 		</currencyFormats>
 		<currencies>
 			<currency type="ANG">

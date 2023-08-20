@@ -969,7 +969,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 						<dateFormatItem id="yyyyQQQQ">↑↑↑</dateFormatItem>
 					</availableFormats>
 					<intervalFormats>
-						<intervalFormatFallback draft="unconfirmed">↑↑↑</intervalFormatFallback>
+						<intervalFormatFallback draft="contributed">↑↑↑</intervalFormatFallback>
 						<intervalFormatItem id="d">
 							<greatestDifference id="d">↑↑↑</greatestDifference>
 						</intervalFormatItem>
@@ -1449,7 +1449,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 						<appendItem request="Timezone">↑↑↑</appendItem>
 					</appendItems>
 					<intervalFormats>
-						<intervalFormatFallback draft="unconfirmed">↑↑↑</intervalFormatFallback>
+						<intervalFormatFallback draft="contributed">↑↑↑</intervalFormatFallback>
 						<intervalFormatItem id="d">
 							<greatestDifference id="d">↑↑↑</greatestDifference>
 						</intervalFormatItem>
@@ -3360,6 +3360,9 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 				</short>
 			</metazone>
 			<metazone type="GMT">
+				<long>
+					<standard>Greenwich Mean Time</standard>
+				</long>
 				<short>
 					<standard>GMT</standard>
 				</short>
@@ -3543,11 +3546,11 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 					<pattern type="100000000000000" count="other" alt="alphaNextToNumber" draft="provisional">¤ 000T</pattern>
 				</currencyFormat>
 			</currencyFormatLength>
-			<unitPattern count="one">↑↑↑</unitPattern>
-			<unitPattern count="two">↑↑↑</unitPattern>
-			<unitPattern count="few">↑↑↑</unitPattern>
-			<unitPattern count="many">↑↑↑</unitPattern>
-			<unitPattern count="other">↑↑↑</unitPattern>
+			<unitPattern count="one">{0} {1}</unitPattern>
+			<unitPattern count="two">{0} {1}</unitPattern>
+			<unitPattern count="few">{0} {1}</unitPattern>
+			<unitPattern count="many">{0} {1}</unitPattern>
+			<unitPattern count="other">{0} {1}</unitPattern>
 		</currencyFormats>
 		<currencies>
 			<currency type="AED">
@@ -4288,8 +4291,8 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<nameOrderLocales order="surnameFirst" draft="unconfirmed">↑↑↑</nameOrderLocales>
 		<parameterDefault parameter="formality" draft="unconfirmed">informal</parameterDefault>
 		<parameterDefault parameter="length" draft="unconfirmed">↑↑↑</parameterDefault>
-		<nativeSpaceReplacement draft="unconfirmed">↑↑↑</nativeSpaceReplacement>
-		<foreignSpaceReplacement draft="unconfirmed">↑↑↑</foreignSpaceReplacement>
+		<nativeSpaceReplacement xml:space="preserve" draft="unconfirmed">↑↑↑</nativeSpaceReplacement>
+		<foreignSpaceReplacement xml:space="preserve" draft="unconfirmed">↑↑↑</foreignSpaceReplacement>
 		<initialPattern type="initial" draft="unconfirmed">↑↑↑</initialPattern>
 		<initialPattern type="initialSequence" draft="unconfirmed">↑↑↑</initialPattern>
 		<personName order="givenFirst" length="long" usage="referring" formality="formal">
