@@ -60,7 +60,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 			<language type="bo">tibeta</language>
 			<language type="br">bretona</language>
 			<language type="brx" draft="unconfirmed">bodoa</language>
-			<language type="bs" draft="unconfirmed">bosna</language>
+			<language type="bs" draft="contributed">bosna</language>
 			<language type="bug" draft="unconfirmed">buĝia</language>
 			<language type="byn" draft="unconfirmed">bilena</language>
 			<language type="ca">kataluna</language>
@@ -104,7 +104,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 			<language type="doi" draft="unconfirmed">dogra</language>
 			<language type="dsb" draft="unconfirmed">malsuprasoraba</language>
 			<language type="dua" draft="unconfirmed">dualaa</language>
-			<language type="dv" draft="unconfirmed">maldiva</language>
+			<language type="dv" draft="contributed">maldiva</language>
 			<language type="dyo" draft="unconfirmed">djola</language>
 			<language type="dz">dzonko</language>
 			<language type="dzg" draft="unconfirmed">dazaa</language>
@@ -142,10 +142,10 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 			<language type="frc" draft="unconfirmed">kaĵun-franca</language>
 			<language type="frr" draft="unconfirmed">nord-frisa</language>
 			<language type="fur" draft="unconfirmed">friula</language>
-			<language type="fy" draft="unconfirmed">okcident-frisa</language>
+			<language type="fy" draft="contributed">okcident-frisa</language>
 			<language type="ga">irlanda</language>
 			<language type="gaa" draft="unconfirmed">↑↑↑</language>
-			<language type="gd" draft="unconfirmed">skot-gaela</language>
+			<language type="gd" draft="contributed">skot-gaela</language>
 			<language type="gez" draft="unconfirmed">geeza</language>
 			<language type="gil" draft="unconfirmed">kiribata</language>
 			<language type="gl">galega</language>
@@ -173,11 +173,11 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 			<language type="hur" draft="unconfirmed">halkomelema</language>
 			<language type="hy">armena</language>
 			<language type="hz" draft="unconfirmed">herera</language>
-			<language type="ia" draft="unconfirmed">Interlingvao</language>
+			<language type="ia" draft="contributed">Interlingvao</language>
 			<language type="iba" draft="unconfirmed">ibana</language>
 			<language type="ibb" draft="unconfirmed">ibibia</language>
 			<language type="id">indonezia</language>
-			<language type="ie" draft="unconfirmed">Interlingveo</language>
+			<language type="ie" draft="contributed">Interlingveo</language>
 			<language type="ig" draft="unconfirmed">igba</language>
 			<language type="ii" draft="unconfirmed">jia</language>
 			<language type="ik">eskima</language>
@@ -318,10 +318,10 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 			<language type="pis" draft="unconfirmed">piĵina</language>
 			<language type="pl">pola</language>
 			<language type="pqm" draft="unconfirmed">malesita-pasamakvodja</language>
-			<language type="ps" draft="unconfirmed">paŝtua</language>
+			<language type="ps" draft="contributed">paŝtua</language>
 			<language type="pt">portugala</language>
-			<language type="pt_BR" draft="unconfirmed">portugala brazila</language>
-			<language type="pt_PT" draft="unconfirmed">portugala eŭropa</language>
+			<language type="pt_BR" draft="contributed">portugala brazila</language>
+			<language type="pt_PT" draft="contributed">portugala eŭropa</language>
 			<language type="qu">keĉua</language>
 			<language type="raj" draft="unconfirmed">raĝastana</language>
 			<language type="rap" draft="unconfirmed">rapanuia</language>
@@ -390,7 +390,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 			<language type="tlh" draft="contributed">klingona</language>
 			<language type="tli" draft="unconfirmed">tlingita</language>
 			<language type="tn">cvana</language>
-			<language type="to" draft="unconfirmed">tongana</language>
+			<language type="to" draft="contributed">tongana</language>
 			<language type="tok" draft="unconfirmed">Tokipono</language>
 			<language type="tpi" draft="unconfirmed">Tokpisino</language>
 			<language type="tr">turka</language>
@@ -413,7 +413,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 			<language type="vai" draft="unconfirmed">vaja</language>
 			<language type="ve" draft="unconfirmed">vendaa</language>
 			<language type="vi">vjetnama</language>
-			<language type="vo" draft="unconfirmed">Volapuko</language>
+			<language type="vo" draft="contributed">Volapuko</language>
 			<language type="vun" draft="unconfirmed">kivunja</language>
 			<language type="wa" draft="unconfirmed">valona</language>
 			<language type="wae" draft="unconfirmed">germana valza</language>
@@ -525,7 +525,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 			<territory type="AD">Andoro</territory>
 			<territory type="AE">Unuiĝintaj Arabaj Emirlandoj</territory>
 			<territory type="AF">Afganujo</territory>
-			<territory type="AG" draft="unconfirmed">Antigvo kaj Barbudo</territory>
+			<territory type="AG" draft="contributed">Antigvo kaj Barbudo</territory>
 			<territory type="AI">Angvilo</territory>
 			<territory type="AL">Albanujo</territory>
 			<territory type="AM">Armenujo</territory>
@@ -538,7 +538,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 			<territory type="AW">Arubo</territory>
 			<territory type="AX" draft="unconfirmed">Alando</territory>
 			<territory type="AZ">Azerbajĝano</territory>
-			<territory type="BA" draft="unconfirmed">Bosnujo kaj Hercegovino</territory>
+			<territory type="BA" draft="contributed">Bosnujo kaj Hercegovino</territory>
 			<territory type="BB">Barbado</territory>
 			<territory type="BD">Bangladeŝo</territory>
 			<territory type="BE">Belgujo</territory>
@@ -564,7 +564,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 			<territory type="CD" draft="unconfirmed">Kongo Kinŝasa</territory>
 			<territory type="CD" alt="variant" draft="unconfirmed">Demokratia Respubliko Kongo</territory>
 			<territory type="CF">Centr-Afrika Respubliko</territory>
-			<territory type="CG" draft="unconfirmed">Kongo Brazavila</territory>
+			<territory type="CG" draft="contributed">Kongo Brazavila</territory>
 			<territory type="CG" alt="variant" draft="unconfirmed">Respubliko Kongo</territory>
 			<territory type="CH">Svisujo</territory>
 			<territory type="CI">Ebur-Bordo</territory>
@@ -577,7 +577,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 			<territory type="CP" draft="unconfirmed">Klipertono</territory>
 			<territory type="CR">Kostariko</territory>
 			<territory type="CU">Kubo</territory>
-			<territory type="CV" draft="unconfirmed">Kaboverdo</territory>
+			<territory type="CV" draft="contributed">Kaboverdo</territory>
 			<territory type="CW" draft="unconfirmed">Kuracao</territory>
 			<territory type="CX" draft="unconfirmed">Kristnaskinsulo</territory>
 			<territory type="CY">Kipro</territory>
@@ -593,7 +593,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 			<territory type="EA" draft="unconfirmed">Ceŭto kaj Melilo</territory>
 			<territory type="EC">Ekvadoro</territory>
 			<territory type="EE">Estonujo</territory>
-			<territory type="EG" draft="unconfirmed">Egiptujo</territory>
+			<territory type="EG" draft="contributed">Egiptujo</territory>
 			<territory type="EH">Okcidenta Saharo</territory>
 			<territory type="ER">Eritreo</territory>
 			<territory type="ES">Hispanujo</territory>
@@ -652,21 +652,21 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 			<territory type="JO">Jordanio</territory>
 			<territory type="JP">Japanujo</territory>
 			<territory type="KE">Kenjo</territory>
-			<territory type="KG" draft="unconfirmed">Kirgizujo</territory>
+			<territory type="KG" draft="contributed">Kirgizujo</territory>
 			<territory type="KH">Kamboĝo</territory>
 			<territory type="KI">Kiribato</territory>
 			<territory type="KM">Komoroj</territory>
-			<territory type="KN" draft="unconfirmed">Sankta Kristoforo kaj Neviso</territory>
+			<territory type="KN" draft="contributed">Sankta Kristoforo kaj Neviso</territory>
 			<territory type="KP">Nord-Koreo</territory>
 			<territory type="KR">Sud-Koreo</territory>
 			<territory type="KW">Kuvajto</territory>
 			<territory type="KY">Kejmanoj</territory>
-			<territory type="KZ" draft="unconfirmed">Kazaĥujo</territory>
+			<territory type="KZ" draft="contributed">Kazaĥujo</territory>
 			<territory type="LA">Laoso</territory>
 			<territory type="LB">Libano</territory>
-			<territory type="LC" draft="unconfirmed">Sankta Lucio</territory>
+			<territory type="LC" draft="contributed">Sankta Lucio</territory>
 			<territory type="LI">Liĥtenŝtejno</territory>
-			<territory type="LK" draft="unconfirmed">Srilanko</territory>
+			<territory type="LK" draft="contributed">Srilanko</territory>
 			<territory type="LR">Liberio</territory>
 			<territory type="LS">Lesoto</territory>
 			<territory type="LT">Litovujo</territory>
@@ -682,7 +682,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 			<territory type="MH">Marŝaloj</territory>
 			<territory type="MK" draft="unconfirmed">Nord-Makedonujo</territory>
 			<territory type="ML">Malio</territory>
-			<territory type="MM" draft="unconfirmed">Birmo</territory>
+			<territory type="MM" draft="contributed">Birmo</territory>
 			<territory type="MN">Mongolujo</territory>
 			<territory type="MO" draft="unconfirmed">Makao</territory>
 			<territory type="MO" alt="short" draft="unconfirmed">↑↑↑</territory>
@@ -718,13 +718,13 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 			<territory type="PH">Filipinoj</territory>
 			<territory type="PK">Pakistano</territory>
 			<territory type="PL">Pollando</territory>
-			<territory type="PM" draft="unconfirmed">Sankta Piero kaj Mikelono</territory>
+			<territory type="PM" draft="contributed">Sankta Piero kaj Mikelono</territory>
 			<territory type="PN">Pitkarna Insulo</territory>
-			<territory type="PR" draft="unconfirmed">Puertoriko</territory>
+			<territory type="PR" draft="contributed">Puertoriko</territory>
 			<territory type="PS" draft="unconfirmed">Palestino</territory>
 			<territory type="PS" alt="short" draft="unconfirmed">↑↑↑</territory>
 			<territory type="PT">Portugalujo</territory>
-			<territory type="PW" draft="unconfirmed">Palaŭo</territory>
+			<territory type="PW" draft="contributed">Palaŭo</territory>
 			<territory type="PY">Paragvajo</territory>
 			<territory type="QA">Kataro</territory>
 			<territory type="QO" draft="unconfirmed">malproksimaj insuletoj de Oceanio</territory>
@@ -733,23 +733,23 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 			<territory type="RS" draft="unconfirmed">Serbujo</territory>
 			<territory type="RU">Rusujo</territory>
 			<territory type="RW">Ruando</territory>
-			<territory type="SA" draft="unconfirmed">Sauda Arabujo</territory>
+			<territory type="SA" draft="contributed">Sauda Arabujo</territory>
 			<territory type="SB">Salomonoj</territory>
 			<territory type="SC">Sejŝeloj</territory>
 			<territory type="SD">Sudano</territory>
 			<territory type="SE">Svedujo</territory>
 			<territory type="SG">Singapuro</territory>
-			<territory type="SH" draft="unconfirmed">Sankta Heleno</territory>
+			<territory type="SH" draft="contributed">Sankta Heleno</territory>
 			<territory type="SI">Slovenujo</territory>
-			<territory type="SJ" draft="unconfirmed">Svalbardo kaj Janmajeno</territory>
+			<territory type="SJ" draft="contributed">Svalbardo kaj Janmajeno</territory>
 			<territory type="SK">Slovakujo</territory>
-			<territory type="SL" draft="unconfirmed">Sieraleono</territory>
-			<territory type="SM" draft="unconfirmed">Sanmarino</territory>
+			<territory type="SL" draft="contributed">Sieraleono</territory>
+			<territory type="SM" draft="contributed">Sanmarino</territory>
 			<territory type="SN">Senegalo</territory>
 			<territory type="SO">Somalujo</territory>
 			<territory type="SR">Surinamo</territory>
 			<territory type="SS" draft="provisional">Sud-Sudano</territory>
-			<territory type="ST" draft="unconfirmed">Santomeo kaj Principeo</territory>
+			<territory type="ST" draft="contributed">Santomeo kaj Principeo</territory>
 			<territory type="SV">Salvadoro</territory>
 			<territory type="SX" draft="unconfirmed">Sint-Maarten</territory>
 			<territory type="SY">Sirio</territory>
@@ -759,7 +759,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 			<territory type="TC" draft="unconfirmed">Turkoj kaj Kajkoj</territory>
 			<territory type="TD">Ĉado</territory>
 			<territory type="TF" draft="unconfirmed">Francaj Sudaj Teritorioj</territory>
-			<territory type="TG" draft="unconfirmed">Togolando</territory>
+			<territory type="TG" draft="contributed">Togolando</territory>
 			<territory type="TH">Tajlando</territory>
 			<territory type="TJ">Taĝikujo</territory>
 			<territory type="TK" draft="unconfirmed">Tokelao</territory>
@@ -774,7 +774,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 			<territory type="TV">Tuvalo</territory>
 			<territory type="TW">Tajvano</territory>
 			<territory type="TZ">Tanzanio</territory>
-			<territory type="UA draft="unconfirmed">Ukrainujo</territory>
+			<territory type="UA draft="contributed">Ukrainujo</territory>
 			<territory type="UG">Ugando</territory>
 			<territory type="UM">Usonaj malgrandaj insuloj</territory>
 			<territory type="UN" draft="unconfirmed">Unuiĝintaj Nacioj</territory>
@@ -783,7 +783,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 			<territory type="UY">Urugvajo</territory>
 			<territory type="UZ">Uzbekujo</territory>
 			<territory type="VA">Vatikano</territory>
-			<territory type="VC" draft="unconfirmed">Sankta Vincento kaj Grenadinoj</territory>
+			<territory type="VC" draft="contributed">Sankta Vincento kaj Grenadinoj</territory>
 			<territory type="VE">Venezuelo</territory>
 			<territory type="VG">Britaj Virgulininsuloj</territory>
 			<territory type="VI">Usonaj Virgulininsuloj</territory>
@@ -861,7 +861,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 				<dateFormats>
 					<dateFormatLength type="full">
 						<dateFormat>
-							<pattern draft="unconfirmed">EEEE, 'la' d-'a' 'de' MMMM y G</pattern>
+							<pattern draft="contributed">EEEE, 'la' d-'a' 'de' MMMM y G</pattern>
 							<datetimeSkeleton>↑↑↑</datetimeSkeleton>
 						</dateFormat>
 					</dateFormatLength>
@@ -1344,16 +1344,16 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 				</dayPeriods>
 				<eras>
 					<eraNames>
-						<era type="0" draft="unconfirmed">antaŭ nia erao</era>
-						<era type="0" alt="variant" draft="unconfirmed">antaŭ Kristo</era>
-						<era type="1" draft="unconfirmed">de nia erao</era>
-						<era type="1" alt="variant" draft="unconfirmed">post Kristo</era>
+						<era type="0" draft="contributed">antaŭ nia erao</era>
+						<era type="0" alt="variant" draft="contributed">antaŭ Kristo</era>
+						<era type="1" draft="contributed">de nia erao</era>
+						<era type="1" alt="variant" draft="contributed">post Kristo</era>
 					</eraNames>
 					<eraAbbr>
-						<era type="0" draft="unconfirmed">a.n.e.</era>
-						<era type="0" alt="variant" draft="unconfirmed">a.K.</era>
-						<era type="1" draft="unconfirmed">n.e.</era>
-						<era type="1" alt="variant" draft="unconfirmed">p.K.</era>
+						<era type="0" draft="contributed">a.n.e.</era>
+						<era type="0" alt="variant" draft="contributed">a.K.</era>
+						<era type="1" draft="contributed">n.e.</era>
+						<era type="1" alt="variant" draft="contributed">p.K.</era>
 					</eraAbbr>
 					<eraNarrow>
 						<era type="0">↑↑↑</era>
@@ -1365,7 +1365,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 				<dateFormats>
 					<dateFormatLength type="full">
 						<dateFormat>
-							<pattern draft="unconfirmed">EEEE, 'la' d-'a' 'de' MMMM y</pattern>
+							<pattern draft="contributed">EEEE, 'la' d-'a' 'de' MMMM y</pattern>
 							<datetimeSkeleton>↑↑↑</datetimeSkeleton>
 						</dateFormat>
 					</dateFormatLength>
@@ -1391,7 +1391,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 				<timeFormats>
 					<timeFormatLength type="full">
 						<timeFormat>
-							<pattern draft="unconfirmed">HH:mm:ss zzzz</pattern>
+							<pattern draft="contributed">HH:mm:ss zzzz</pattern>
 							<datetimeSkeleton>Hmsszzzz</datetimeSkeleton>
 						</timeFormat>
 					</timeFormatLength>
